@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Lab_task.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -15,7 +16,14 @@ namespace Lab_task.Controllers
 
         public ActionResult Create()
         {
-            return View();
+            Student s = new Student();
+            return View(s);
+        }
+        [HttpPost]
+        public ActionResult Create(Student s)
+        {
+            return RedirectToAction("Index");
+
         }
     }
 }
