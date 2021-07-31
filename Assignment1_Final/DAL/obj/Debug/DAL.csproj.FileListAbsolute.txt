@@ -1,0 +1,12 @@
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\DAL\bin\Debug\DAL.dll.config
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\DAL\bin\Debug\DAL.dll
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\DAL\bin\Debug\DAL.pdb
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\DAL\bin\Debug\EntityFramework.dll
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\DAL\bin\Debug\EntityFramework.xml
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\DAL\obj\Debug\DAL.dll
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\DAL\obj\Debug\DAL.pdb

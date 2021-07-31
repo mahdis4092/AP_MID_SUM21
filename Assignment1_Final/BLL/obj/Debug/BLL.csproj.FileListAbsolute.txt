@@ -1,0 +1,14 @@
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\bin\Debug\BLL.dll
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\bin\Debug\BLL.pdb
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\bin\Debug\BEL.dll
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\bin\Debug\DAL.dll
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\bin\Debug\BEL.pdb
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\bin\Debug\DAL.pdb
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\bin\Debug\DAL.dll.config
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\obj\Debug\BLL.csproj.CopyComplete
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\obj\Debug\BLL.dll
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\obj\Debug\BLL.pdb
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\bin\Debug\EntityFramework.dll
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\bin\Debug\EntityFramework.xml
