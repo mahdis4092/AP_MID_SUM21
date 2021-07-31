@@ -22,5 +22,10 @@ namespace DAL
         {
             return context.Categories.ToList();
         }
+        public static void AddCategory(Category c)
+        {
+            context.Categories.Add(c);
+            context.SaveChanges();
+        }
     }
 }

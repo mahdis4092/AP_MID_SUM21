@@ -31,5 +31,10 @@ namespace BLL
 
 
         }
+        public static void AddCategory(CategoryModel cate)
+        {
+            var c = new Category() { id = cate.id, name = cate.name };
+            CategoryRepo.AddCategory(c);
+        }
     }
 }
