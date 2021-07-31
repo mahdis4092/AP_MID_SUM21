@@ -1,4 +1,5 @@
-﻿using BLL;
+﻿using BEL;
+using BLL;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,6 +16,12 @@ namespace WebApi.Controllers
         public List<string>GetNames()
         {
             return CategoryService.GetCategoryNames();
+        }
+        [Route("api/Category/GetAll")]
+        [HttpGet]
+        public List<CategoryModel> GetAllCategories()
+        {
+            return CategoryService.GetCategories();
         }
     }
 }

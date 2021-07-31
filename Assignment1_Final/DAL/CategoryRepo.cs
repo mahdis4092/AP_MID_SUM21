@@ -18,5 +18,9 @@ namespace DAL
             var data = context.Categories.Select(e => e.name).ToList();
             return data;
         }
+        public static List<Category> GetCategories()
+        {
+            return context.Categories.ToList();
+        }
     }
 }
