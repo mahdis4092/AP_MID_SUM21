@@ -15,7 +15,7 @@ namespace BLL.MapperConfig
         {
             CreateMap<Category, CategoryModel>();
             CreateMap<Category, CategoryDetail>();
-            CreateMap<Product,ProductModel>();
+            CreateMap<ProductModel,Product>().ForMember(e=>e.Category,sm=>sm.Ignore());
 
         }
     }

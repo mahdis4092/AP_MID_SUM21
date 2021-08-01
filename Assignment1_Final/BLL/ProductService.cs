@@ -14,11 +14,16 @@ namespace BLL
         {
             AutoMapper.Mapper.Initialize(config => config.AddProfile<MapperConfig.AutoMapperSettings>());
         }
-        public static void AddProduct(ProductModel model)
+      /*  public static void AddProduct(ProductModel pt)
         {
-            var data = AutoMapper.Mapper.Map<ProductModel, Product>(model);
-            ProductRepo.AddProduct(data);
-        }
+            var p = new Product() { id = pt.id, name = pt.name };
+            ProductRepo.AddProduct(p);
+        }*/
+          public static void AddProduct(ProductModel model)
+          {
+              var data = AutoMapper.Mapper.Map<ProductModel, Product>(model);
+              ProductRepo.AddProduct(data);
+          }
         public static ProductModel GetProduct(int id)
         {
             var data = ProductRepo.GetProduct(id);

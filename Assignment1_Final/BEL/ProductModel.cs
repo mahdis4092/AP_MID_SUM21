@@ -20,5 +20,6 @@ namespace BEL
         public string created_by { get; set; }
         public string updated_by { get; set; }
         public string deleted_by { get; set; }
+        
     }
 }

@@ -13,11 +13,17 @@ namespace DAL
         {
             context = new ImsDBEntities();
         }
-        public static void AddProduct(Product model)
+         public static void AddProduct(Product model)
+          {
+              context.Products.Add(model);
+              context.SaveChanges();
+          }
+       /* public static void AddProduct(Product c)
         {
-            context.Products.Add(model);
+            context.Products.Add(c);
             context.SaveChanges();
-        }
+        }*/
+
         public static List<Product> GetAllProducts()
         {
             var data = context.Products.ToList();

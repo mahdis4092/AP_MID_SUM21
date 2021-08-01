@@ -22,10 +22,16 @@ namespace WebApi.Controllers
             return ProductService.GetProduct(id);
         }
         [Route("api/Product/Add")]
-        public void AddProduct(ProductModel model)
+        [HttpPost]
+         public void AddProduct(ProductModel model)
+         {
+             ProductService.AddProduct(model);
+         }
+        //[HttpPost]
+      /*  public void Add(ProductModel pt)
         {
-            ProductService.AddProduct(model);
-        }
+            ProductService.AddProduct(pt);
+        }*/
 
     }
 }
