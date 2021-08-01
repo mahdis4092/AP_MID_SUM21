@@ -76,3 +76,5 @@ G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\WebApi\bin\DAL.
 G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\WebApi\bin\EntityFramework.xml
 G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\WebApi\bin\EntityFramework.SqlServer.dll
 G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\WebApi\bin\EntityFramework.SqlServer.xml
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\WebApi\bin\AutoMapper.dll
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\WebApi\bin\AutoMapper.xml

@@ -29,5 +29,10 @@ namespace WebApi.Controllers
         {
             CategoryService.AddCategory(cate);
         }
+        [Route("api/Category/All/Details")]
+        public List<CategoryDetail> GetCategoryWithDetails()
+        {
+            return CategoryService.GetCategoryWithDetails();
+        }
     }
 }

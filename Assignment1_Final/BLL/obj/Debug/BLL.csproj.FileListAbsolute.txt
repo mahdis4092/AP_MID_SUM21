@@ -12,3 +12,5 @@ G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\obj\Debug\B
 G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\obj\Debug\BLL.pdb
 G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\bin\Debug\EntityFramework.dll
 G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\bin\Debug\EntityFramework.xml
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\bin\Debug\AutoMapper.dll
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\BLL\bin\Debug\AutoMapper.xml

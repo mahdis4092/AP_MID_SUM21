@@ -10,6 +10,10 @@ namespace BLL
 {
     public class CategoryService
     {
+        static CategoryService()
+        {
+            AutoMapper.Mapper . Initialize(Config =>Config.AddProfile<MapperConfig.AutoMapperSettings>());
+        }
         public static List<string>GetCategoryNames()
         {
             return CategoryRepo.GetCategoryNames();
@@ -35,6 +39,12 @@ namespace BLL
         {
             var c = new Category() { id = cate.id, name = cate.name };
             CategoryRepo.AddCategory(c);
+        }
+        public static List<CategoryDetail> GetCategoryWithDetails()
+        {
+            var data = CategoryRepo.GetCategories();
+            var cDetails = AutoMapper.Mapper.Map<List<Category>, List<CategoryDetail>>(data);
+            return cDetails;
         }
     }
 }
