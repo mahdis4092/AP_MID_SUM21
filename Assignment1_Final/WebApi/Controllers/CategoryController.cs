@@ -34,5 +34,10 @@ namespace WebApi.Controllers
         {
             return CategoryService.GetCategoryWithDetails();
         }
+        [Route("api/Category/{id}/Details")]
+        public CategoryDetail GetCategoryDetail(int id)
+        {
+            return CategoryService.GetCategoryDetail(id);
+        }
     }
 }

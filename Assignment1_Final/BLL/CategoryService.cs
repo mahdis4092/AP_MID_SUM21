@@ -46,5 +46,12 @@ namespace BLL
             var cDetails = AutoMapper.Mapper.Map<List<Category>, List<CategoryDetail>>(data);
             return cDetails;
         }
+        public static CategoryDetail GetCategoryDetail(int id)
+        {
+            var c = CategoryRepo.GetCategoryDetail(id);
+            var catedetail = AutoMapper.Mapper.Map<Category, CategoryDetail>(c);
+            return catedetail;
+        }
+
     }
 }

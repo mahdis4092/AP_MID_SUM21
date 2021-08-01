@@ -27,5 +27,9 @@ namespace DAL
             context.Categories.Add(c);
             context.SaveChanges();
         }
+        public static Category GetCategoryDetail(int id)
+        {
+            return context.Categories.FirstOrDefault(e => e.id == id);
+        }
     }
 }
