@@ -78,3 +78,6 @@ G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\WebApi\bin\Enti
 G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\WebApi\bin\EntityFramework.SqlServer.xml
 G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\WebApi\bin\AutoMapper.dll
 G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\WebApi\bin\AutoMapper.xml
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\WebApi\bin\System.Web.Cors.dll
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\WebApi\bin\System.Web.Http.Cors.dll
+G:\AIUB\11th semester\ATP2\AP_SUM\AP_MID_SUM21\Assignment1_Final\WebApi\bin\System.Web.Http.Cors.xml
